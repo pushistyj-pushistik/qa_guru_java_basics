@@ -8,7 +8,7 @@ public class FirstApp {
         int aInt = 20000;       // 32 бит -2147483648 ... 2147483647
         long aLong = 100000L;   // 64 бит
         float aFloat = 255.5F;  // 32 бит
-        double aDouble = 525; // 64 бит
+        double aDouble = 525;   // 64 бит
         boolean aFalse = false;
         boolean aTrue = true;
         char aChar = ':';
