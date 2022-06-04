@@ -30,7 +30,7 @@ public class FirstApp {
         aInt = (aShort == 10000)
                 ? 20000
                 : 30000;
-        System.out.println( "Значение aInt: " + aInt );
+        System.out.println("Значение aInt: " + aInt);
 
         // Логические операторы
         System.out.println("aFalse && aTrue = " + (aFalse && aTrue));
